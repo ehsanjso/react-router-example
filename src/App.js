@@ -19,7 +19,7 @@ function App() {
         <Route path="/">
           <h1
             style={{
-              color: "red",
+              color: "green",
             }}
           >
             I'm Main page
